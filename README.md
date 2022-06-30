@@ -1,5 +1,9 @@
 # CSS-Note
 
+## 项目配色方案
+
+✅ [ColourCode](https://www.toptal.com/designers/colourcode) `滑动生成颜色`
+
 ## Sass
 * [Sass官方文档](https://sass-lang.com/)
 
