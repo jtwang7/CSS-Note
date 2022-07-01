@@ -4,6 +4,12 @@
 
 ✅ [ColourCode](https://www.toptal.com/designers/colourcode) `滑动生成颜色`
 
+✅ [Color Hunt](https://www.colorhunt.co/) `配色方案`
+
+✅ [WebGradients](https://webgradients.com/) `渐变色`
+
+✅ [uiGradients](https://uigradients.com/#Anwar) `渐变色`
+
 ## Sass
 * [Sass官方文档](https://sass-lang.com/)
 
