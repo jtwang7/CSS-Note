@@ -1,5 +1,11 @@
 # CSS-Note
 
+## 布局
+
+✅ [Grid布局](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+
+✅ [flex布局](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
 ## 项目配色方案
 
 ✅ [ColourCode](https://www.toptal.com/designers/colourcode) `滑动生成颜色`
